@@ -1,0 +1,9 @@
+Age,Salary,Gender,Purchased
+25.0,50000.0,Male,0
+32.0,64000.0,Female,1
+,58000.0,Female,0
+45.0,,Male,1
+28.0,52000.0,Male,0
+60.0,120000.0,Female,1
+,75000.0,Male,1
+22.0,48000.0,Female,0
