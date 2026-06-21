@@ -1,0 +1,132 @@
+[
+  {
+    "num": 1,
+    "title": "Introduction to Machine Learning",
+    "slug": "01-introduction-to-machine-learning"
+  },
+  {
+    "num": 2,
+    "title": "Types of Machine Learning",
+    "slug": "02-types-of-machine-learning"
+  },
+  {
+    "num": 3,
+    "title": "Data Preprocessing",
+    "slug": "03-data-preprocessing"
+  },
+  {
+    "num": 4,
+    "title": "Train-Test Split",
+    "slug": "04-train-test-split"
+  },
+  {
+    "num": 5,
+    "title": "Linear Regression",
+    "slug": "05-linear-regression"
+  },
+  {
+    "num": 6,
+    "title": "Logistic Regression",
+    "slug": "06-logistic-regression"
+  },
+  {
+    "num": 7,
+    "title": "K-Nearest Neighbors (KNN)",
+    "slug": "07-k-nearest-neighbors-knn"
+  },
+  {
+    "num": 8,
+    "title": "Decision Trees",
+    "slug": "08-decision-trees"
+  },
+  {
+    "num": 9,
+    "title": "Random Forest",
+    "slug": "09-random-forest"
+  },
+  {
+    "num": 10,
+    "title": "Support Vector Machine (SVM)",
+    "slug": "10-support-vector-machine-svm"
+  },
+  {
+    "num": 11,
+    "title": "Naive Bayes",
+    "slug": "11-naive-bayes"
+  },
+  {
+    "num": 12,
+    "title": "Clustering (K-Means, Hierarchical)",
+    "slug": "12-clustering-k-means-hierarchical"
+  },
+  {
+    "num": 13,
+    "title": "Principal Component Analysis (PCA)",
+    "slug": "13-principal-component-analysis-pca"
+  },
+  {
+    "num": 14,
+    "title": "Neural Networks",
+    "slug": "14-neural-networks"
+  },
+  {
+    "num": 15,
+    "title": "Deep Learning Basics",
+    "slug": "15-deep-learning-basics"
+  },
+  {
+    "num": 16,
+    "title": "Model Evaluation Metrics",
+    "slug": "16-model-evaluation-metrics"
+  },
+  {
+    "num": 17,
+    "title": "Overfitting and Underfitting",
+    "slug": "17-overfitting-and-underfitting"
+  },
+  {
+    "num": 18,
+    "title": "Cross Validation",
+    "slug": "18-cross-validation"
+  },
+  {
+    "num": 19,
+    "title": "Hyperparameter Tuning",
+    "slug": "19-hyperparameter-tuning"
+  },
+  {
+    "num": 20,
+    "title": "End-to-End Machine Learning Project",
+    "slug": "20-end-to-end-machine-learning-project"
+  },
+  {
+    "num": 21,
+    "title": "Mini Projects",
+    "slug": "21-mini-projects"
+  },
+  {
+    "num": 22,
+    "title": "Revision Notes",
+    "slug": "22-revision-notes"
+  },
+  {
+    "num": 23,
+    "title": "Cheat Sheet",
+    "slug": "23-cheat-sheet"
+  },
+  {
+    "num": 24,
+    "title": "Formula Sheet",
+    "slug": "24-formula-sheet"
+  },
+  {
+    "num": 25,
+    "title": "Interview Preparation",
+    "slug": "25-interview-preparation"
+  },
+  {
+    "num": 26,
+    "title": "100 Machine Learning MCQs with Answers",
+    "slug": "26-100-machine-learning-mcqs-with-answers"
+  }
+]
