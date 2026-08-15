@@ -1,4 +1,4 @@
-<a id="top"></a>
+**<a id="top"></a>
 
 <div align="center">
 
@@ -82,3 +82,4 @@ By the end, you'll have walked through the entire ML pipeline — from cleaning 
 | 8 | 🌳 Decision Trees |
 | 9 | 🌲 Random Forest |
 | 10 | 🛡️ Support
+**
