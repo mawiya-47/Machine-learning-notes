@@ -1,4 +1,4 @@
-**<a id="top"></a>
+<a id="top"></a>
 
 <div align="center">
 
@@ -81,5 +81,128 @@ By the end, you'll have walked through the entire ML pipeline — from cleaning 
 | 7 | 📍 K-Nearest Neighbors (KNN) |
 | 8 | 🌳 Decision Trees |
 | 9 | 🌲 Random Forest |
-| 10 | 🛡️ Support
-**
+| 10 | 🛡️ Support Vector Machines (SVM) |
+| 11 | 🎯 Naive Bayes |
+| 12 | 📊 Model Evaluation Metrics |
+| 13 | ⚖️ Bias-Variance Tradeoff |
+
+</td>
+<td valign="top" width="50%">
+
+**🧮 Advanced Concepts**
+
+| # | Topic |
+|:-:|-------|
+| 14 | 🔁 Cross Validation |
+| 15 | 🎛️ Hyperparameter Tuning |
+| 16 | 🧊 K-Means Clustering |
+| 17 | 🌐 Hierarchical Clustering |
+| 18 | 📉 Principal Component Analysis (PCA) |
+| 19 | 🎒 Ensemble Learning (Bagging/Boosting) |
+| 20 | 🚀 Gradient Boosting & XGBoost |
+| 21 | 🧵 Regularization — L1 / L2 |
+| 22 | 🔥 Feature Engineering & Selection |
+| 23 | 🕳️ Handling Imbalanced Data |
+| 24 | 🧭 Model Deployment Basics |
+| 25 | 🧠 Intro to Neural Networks |
+| 26 | 📝 ML Interview Q&A Recap |
+
+</td>
+</tr>
+</table>
+
+<div align="right"><sub><a href="#top">⬆ Back to Top</a></sub></div>
+
+## 🖼️ Visual Gallery
+
+Every algorithm is paired with a hand-crafted visualization to build intuition before diving into the math — decision boundaries, regression fits, confusion matrices, clustering plots, PCA projections, and more. **35 visualizations** in total across the notebook.
+
+<div align="center">
+<sub>📊 Regression Fits &nbsp;•&nbsp; 🎯 Decision Boundaries &nbsp;•&nbsp; 🧊 Cluster Plots &nbsp;•&nbsp; 📉 PCA Projections &nbsp;•&nbsp; 🔥 Confusion Matrices &nbsp;•&nbsp; 📈 Learning Curves</sub>
+</div>
+
+<div align="right"><sub><a href="#top">⬆ Back to Top</a></sub></div>
+
+## 🚀 Mini Projects
+
+| # | Project | Concepts Applied |
+|:-:|---------|-------------------|
+| 1 | 🏠 House Price Prediction | Linear Regression, Feature Engineering |
+| 2 | 📧 Spam Email Classifier | Naive Bayes, Text Preprocessing |
+| 3 | 💳 Customer Churn Prediction | Logistic Regression, Random Forest |
+| 4 | 🛍️ Customer Segmentation | K-Means Clustering, PCA |
+| 5 | ❤️ Disease Prediction System | SVM, Model Evaluation, Cross Validation |
+
+<div align="right"><sub><a href="#top">⬆ Back to Top</a></sub></div>
+
+## 🗂️ Repository Structure
+
+```
+Machine-learning-notes/
+│
+├── ML_Notes.ipynb        # Main notebook — all 26 topics + projects
+├── datasets/              # 9 real-world datasets used across the notebook
+├── images/                 # Visualizations and diagrams
+└── README.md               # You are here
+```
+
+<div align="right"><sub><a href="#top">⬆ Back to Top</a></sub></div>
+
+## 🛠️ Tech Stack
+
+- **Language:** Python 3
+- **Environment:** Jupyter Notebook / Google Colab
+- **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, scikit-learn
+
+<div align="right"><sub><a href="#top">⬆ Back to Top</a></sub></div>
+
+## ⚡ Getting Started
+
+**Option 1 — Open in Colab (recommended, no setup needed)**
+
+Click the "Open In Colab" badge at the top of this README.
+
+**Option 2 — Run locally**
+
+```bash
+git clone https://github.com/mawiya-47/Machine-learning-notes.git
+cd Machine-learning-notes
+pip install numpy pandas matplotlib seaborn scikit-learn jupyter
+jupyter notebook ML_Notes.ipynb
+```
+
+<div align="right"><sub><a href="#top">⬆ Back to Top</a></sub></div>
+
+## 🙋 Who This Is For
+
+- 🎓 Students starting their ML journey and wanting a single, structured reference
+- 💼 Job seekers revising core ML concepts before interviews
+- 🧑‍🏫 Educators looking for ready-made explanations, visuals, and examples
+- 🔁 Anyone who wants theory and code side-by-side instead of scattered tutorials
+
+<div align="right"><sub><a href="#top">⬆ Back to Top</a></sub></div>
+
+## 🤝 Contributing
+
+Contributions are welcome! If you'd like to add a topic, fix an explanation, improve a visualization, or add a new mini project:
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/your-feature`)
+3. Commit your changes
+4. Open a Pull Request
+
+<div align="right"><sub><a href="#top">⬆ Back to Top</a></sub></div>
+
+## ⭐ Support This Project
+
+If this repository helped you learn or revise Machine Learning, consider giving it a ⭐ — it helps others find it too!
+
+<div align="right"><sub><a href="#top">⬆ Back to Top</a></sub></div>
+
+## 📬 Connect
+
+Questions, suggestions, or feedback? Open an [issue](https://github.com/mawiya-47/Machine-learning-notes/issues) or start a [discussion](https://github.com/mawiya-47/Machine-learning-notes/discussions) — happy to help!
+
+<div align="center">
+<sub>Made with ❤️ for the ML learning community</sub>
+</div>
